@@ -68,7 +68,7 @@ lazy-object-proxy==1.2.2
 lightfm==1.13
 llvmlite==0.18.0
 locket==0.2.0
-lxml==3.7.3
+lxml==4.6.2
 macholib==1.8
 MarkupSafe==0.23
 matplotlib==2.0.2
